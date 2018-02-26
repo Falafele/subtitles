@@ -1,0 +1,9 @@
+1
+00:00:10,000 --> 00:00:53,500
+Dzisiaj jest Sobota
+Jutro bêdzie niedziela
+
+1
+00:00:15,000 --> 00:00:58,500
+Dzisiaj jest Sobota
+Jutro bêdzie niedziela
